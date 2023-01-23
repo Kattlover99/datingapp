@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fce1978-0b07-4800-8849-ef6dc526602e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DatingApp/FileContentIndex/6e5db8a0-b1eb-4e68-ad0b-859a65330577.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DatingApp/FileContentIndex/b56dbc91-bde7-4378-857d-72a48aab16e1.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/DatingApp/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/DatingApp/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/UserRepository.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2K0DJ1mLYlWmDIDoSXawX6nqaAk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.other&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fce1978-0b07-4800-8849-ef6dc526602e" name="Changes" comment="" />
+      <created>1673102535500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673102535500</updated>
+    </task>
+    <servers />
+  </component>
+</project>
