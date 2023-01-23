@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\main.2d34102c79b0cc24.js",
+      "PackagePath": "staticwebassets\\main.2d34102c79b0cc24.js"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\polyfills.a028c55f58455cf5.js",
+      "PackagePath": "staticwebassets\\polyfills.a028c55f58455cf5.js"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\runtime.89bfad0fe920d2c9.js",
+      "PackagePath": "staticwebassets\\runtime.89bfad0fe920d2c9.js"
+    },
+    {
+      "Id": "C:\\Users\\Machinery\\Desktop\\Git\\dating-app-angular-csharp\\backend\\wwwroot\\styles.babf05bcbfb4bf6c.css",
+      "PackagePath": "staticwebassets\\styles.babf05bcbfb4bf6c.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DatingApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DatingApp.props",
+      "PackagePath": "build\\DatingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DatingApp.props",
+      "PackagePath": "buildMultiTargeting\\DatingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DatingApp.props",
+      "PackagePath": "buildTransitive\\DatingApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
