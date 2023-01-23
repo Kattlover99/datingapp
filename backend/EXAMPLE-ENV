@@ -1,0 +1,4 @@
+# Copy and paste your API environment variable
+# =============================================
+
+CLOUDINARY_URL=cloudinary://<API_KEY>:<API_SECRET>@<CLOUD_NAME>
